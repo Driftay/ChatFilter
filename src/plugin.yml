@@ -1,8 +1,0 @@
-main: me.driftay.chatfilter.Main
-name: ChatFilter
-author: Driftay
-version: 1.0
-description: The Best Plugin For Managing Offensive Words
-commands:
-    chatfilter:
-        description: Reload the Config.
